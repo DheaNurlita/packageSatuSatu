@@ -1,7 +1,9 @@
 name: dart_package
-description: A sample command-line application.
+description: Halo apa kabar semuanya? ini hanya untuk latihan loh ya
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+# publish_to: none
+repository: https://github.com/DheaNurlita/packageSatuSatu
+homepage: https://github.com/DheaNurlita/packageSatuSatu/blob/main/README.md
 
 environment:
   sdk: ^3.0.5
@@ -9,6 +11,10 @@ environment:
 # Add regular dependencies here.
 dependencies:
   # path: ^1.8.0
+  # dart_package_1:
+  #   git:
+  #     url: https://github.com/DheaNurlita/packageSatuSatu.git
+  #     ref: main
 
 dev_dependencies:
   lints: ^2.0.0
